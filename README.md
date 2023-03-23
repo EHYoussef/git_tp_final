@@ -37,7 +37,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 > Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
 
 Noms des étudiants : 
-* EHOUDAYG Youssef
+* EHOUDAYG Youssef (2année initiale)
 
 Date du jour : 23/03/2023
 
@@ -61,7 +61,7 @@ selon l'ordre dans lequel vous avez mis vos noms dans la présentation.
 
 Il est attendu de tous les collaborateurs de respecter les bonnes pratiques Git et de séparer au mieux leur travail !
 
-Aussi, partez du principe, comme on a vu en cours pour les exercices, que les tâches demandées sont **"complexes"** ! Même si ça vous prend 10 secondes, faites semblant que chaque petite tâche pourrait vous prendre un peu de temps, et **organisez votre historique en fonction**.
+Aussi, partez du principe, comme on a vu en cours pour les exercices, que les tâches demandées sont **"complexes"** ! Même si ça  vous prend 10 secondes, faites semblant que chaque petite tâche pourrait vous prendre un peu de temps, et **organisez votre historique en fonction**.
 
 **La note prendra compte de cela** !
 
